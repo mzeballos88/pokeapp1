@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Charmander",
+    "price": 800,
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+  },
+  {
+    "id": "2",
+    "title": "Pikachu",
+    "price": 350,
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+  },
+  {
+    "id": "3",
+    "title": "Squirtle",
+    "price": 582,
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+  },
+  {
+    "id": "4",
+    "title": "Bulbasaur",
+    "price": 851,
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "id": "5",
+    "title": "Mewto",
+    "price": "1856",
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+  },
+  {
+    "id": "6",
+    "title": "Evee",
+    "price": "850",
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+  },
+  {
+    "id": "7",
+    "title": "Dratini",
+    "price": "2500",
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png"
+  },
+  {
+    "id": "8",
+    "title": "Growlithe",
+    "price": "1200",
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/58.png"
+  },
+  {
+    "id": "9",
+    "title": "Dewgong",
+    "price": "540",
+    "thumbnail": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/87.png"
+  }
+]
